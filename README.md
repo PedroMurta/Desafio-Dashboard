@@ -11,3 +11,17 @@
 - Criar um dashboard para disponibilizar as informações de aderência para o time operacional.
 
 > Além de saber as contas com menor aderência, o time operacional também gostaria de saber quais as classes de ativos têm a política mais desrespeitada. Você pode ajudá-los?
+
+
+
+-----------------------------------------------------------------------
+
+Sistema Operacional e ferramentas usadas:
+- Arch Linux
+- PostgreSQL 15.2
+- Python 3.9.16
+- Dash 2.9.2
+- Pandas 1.4.4
+- Pandas Profiling 3.2.0
+- Potly 5.13.1
+
