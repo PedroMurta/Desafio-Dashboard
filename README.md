@@ -10,4 +10,4 @@
 
 - Criar um dashboard para disponibilizar as informações de aderência para o time operacional.
 
-- Além de saber as contas com menor aderência, o time operacional também gostaria de saber quais as classes de ativos têm a política mais desrespeitada. Você pode ajudá-los?
+> Além de saber as contas com menor aderência, o time operacional também gostaria de saber quais as classes de ativos têm a política mais desrespeitada. Você pode ajudá-los?
