@@ -1,6 +1,6 @@
 # Desafio-Dashboard
 
-- Instanciar um banco de dados __PostgreSQL__ e realizar nele a ingestão dos dados. Isso pode ser feito localmente da forma que preferir, apenas indique o passo a passo adotado.
+- Instanciar um banco de dados __PostgreSQL__ e realizar nele a ingestão dos dados.
 
  >   Fazer a normalizaçãodo conjunto de dados até a terceira forma normal. Nesse caso, você pode usar a plataforma [dbdiagram](https://dbdiagram.io) para realizar a diagramação do banco de dados normalizado.
 
