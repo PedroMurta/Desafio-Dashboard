@@ -18,6 +18,7 @@
 
 Sistema Operacional e ferramentas usadas:
 - Arch Linux
+- Kernel: 6.2.8-arch1-1
 - PostgreSQL 15.2
 - Python 3.9.16
 - Dash 2.9.2
